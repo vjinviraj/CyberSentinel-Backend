@@ -1,0 +1,9 @@
+Flask
+pandas
+requests
+beautifulsoup4
+whois
+dnspython
+favicon
+scikit-learn
+urllib3
